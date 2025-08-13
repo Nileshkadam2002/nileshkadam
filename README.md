@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn">
   </a><br>
   <a href="[https://kaggle.com](https://www.kaggle.com/nilesh2042)">
-    <img src="[https://img.shields.io/badge/Portfolio-website-green](https://www.google.com/imgres?q=kaggle%20img&imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20191111133858%2FHow-Should-a-Machine-Learning-Beginner-Get-Started-on-Kaggle.png&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmachine-learning%2Fhow-should-a-machine-learning-beginner-get-started-on-kaggle%2F&docid=S7QTytciDaqD9M&tbnid=rJcCp6oTwZLEsM&vet=12ahUKEwjzxsP3-oePAxXgzDgGHSEfAt4QM3oECBYQAA..i&w=1000&h=618&hcb=2&ved=2ahUKEwjzxsP3-oePAxXgzDgGHSEfAt4QM3oECBYQAA)" alt="Kaggle">
+    <img" alt="Kaggle">
   </a><br>
   <a href="1.mail to:nileshkadam2042@gmail.com", href="2.mail to:nk2713706@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-red" alt="Email">
